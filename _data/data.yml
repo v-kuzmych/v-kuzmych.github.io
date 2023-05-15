@@ -1,0 +1,130 @@
+sidebar: 
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    
+
+    # Profile information
+    name: Vasylyna Kuzmych
+    tagline: Java Software Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    citizenship: Lviv (Ukraine)
+    website: vasylyna.kuzmych.dev
+    email: vasilisa.kuzmych@gmail.com
+    phone:
+    timezone:
+    linkedin: v-kuzmych
+    github: v-kuzmych
+    gitlab:
+    bitbucket:
+    twitter: 
+    telegram: v_kuzmych
+    pdf: http://vasylyna.kuzmych.dev/cv.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Ukrainian
+          level: Native
+
+        - idiom: English
+          level: Intermediate
+
+    interests:
+      title: Interests
+      info:
+        - item: Camping
+          link:
+
+        - item: Festivals
+          link:
+
+        - item: Table tennis
+          link:
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Summary
+    summary: |
+       Hello!<br>
+       I am a Software Engineer with good knowledge programming languages: Java, PHP, HTML, CSS, SQL, JavaScript, React Native, C++/C#.
+       Have three years of practical programming experience with PHP, completed courses of Epam Java Lab and now I have desire and motivation to work as a Java programmer.
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science
+        university: Ternopil Ivan Pul’uj National Technical University
+        time: 2018 - 2019
+
+      - degree: BSc in Computer Science
+        university: Ternopil Ivan Pul’uj National Technical University
+        time: 2014 - 2018
+
+experiences:
+    title: Experiences
+    info:
+      - role: PHP Developer
+        time: Mar-2019 - Feb-2022
+        company: ALPHA-CONCEPT, Lviv
+        details: |
+          ALPHA-CONCEPT is a company which based on manufactured wooden furniture. Our 
+          projects included sites for the sale of goods (such as https://estella.ua/, https://lizhkatamatracy.lviv.ua/) 
+          and a project for accounting of working hours at the factory (https://oxatime.com/). The project includes a 
+          website and 2 mobile applications that store information about the employee's entry and exit to the 
+          workplace, which allows calculating wages and providing department managers with employee statistics.
+            - Development of a system for recording working hours
+            - Support of existing websites, development of additional functionality for users and managers
+            - Creating tasks and subtasks based on the client's wishes
+            - Creation of project database architecture
+            - Integration of the system in the departments of the own enterprise
+            - Training of interns
+
+      - role: Java Developer
+        time: Jun-2021 - Jan-2022
+        company: EPAM UNIVERSITY PROGRAM, Lviv
+        details: |
+          The task of the final project was to develop the cinema website where the administrator 
+          can edit the movies and the schedule, can create reports, and the customer can choose the movie and book 
+          the ticket for the session
+            - Attending lectures and performing practical tasks on the following topics: Java Core, Spring Boot, CI/CD, Microservices
+            - Development of the final project on JavaEE
+            - Writing tests
+
+      - role: Manual QA
+        time: Oct – Nov-2018 
+        company: FORTE GROUP, Ternopil
+        details: |
+          Courses on the basics of testing
+            - Study fundamentals of software testing, test design techniques, Agile Metodologies;
+            - Test cases creation, update, and decomposition;
+            - Test case execution, results and defects reporting;
+            - Web based testing; Testing of ecommerce applications; Customer relationship management (CRM) systems testing; Databases in testing live; Mobile Based Testing
+
+      - role: WordPress Developer
+        time: April 2018 
+        company: FREELANCE, Kyiv
+        details: |
+          Was involved in two projects online stores.
+            - Development of plugins;
+            - Design changes and support as content manager
+
+      - role: PHP Developer
+        time: February 2018 
+        company: CROWDIN, Ternopil
+        details: |
+          Educational practice
+            - Installing and configuring Linux on a virtual machine;
+            - Development of a website for sorting by six algorithms using the MySQL database.
+
+      - role: Manual QA
+        time: July 2016  
+        company: WEB-TECH, Ternopil
+        details: |
+          Educational practice
+            - Acquaintance with the work of the tester;
+            - Study of the main concepts and principles of testing;
+            - Familiarization with the methodology scrum project management;
+            - Manual testing
