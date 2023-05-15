@@ -1,4 +1,7 @@
-## To preview/edit locally with docker
+# My CV
+Available at [vasylyna.kuzmych.dev](https://vasylyna.kuzmych.dev) or [v-kuzmych.github.io](https://v-kuzmych.github.io).
+
+### To preview/edit locally with docker
 
 ```sh
 docker-compose up
